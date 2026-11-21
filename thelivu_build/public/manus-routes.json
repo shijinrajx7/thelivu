@@ -1,0 +1,18 @@
+{
+  "routes": [
+    { "path": "/", "title": "Thelivu — Overview" },
+    { "path": "/scanner", "title": "Website Scanner" },
+    { "path": "/claims", "title": "Claim Checker" },
+    { "path": "/image", "title": "Image Verification" },
+    { "path": "/video", "title": "Video Awareness" },
+    { "path": "/messages", "title": "Message Checker" },
+    { "path": "/security-review", "title": "Defensive API Review" },
+    { "path": "/threats", "title": "Threat Intelligence Sources" },
+    { "path": "/learning", "title": "Cyber Learning Lab" },
+    { "path": "/history", "title": "Scan History" },
+    { "path": "/reports", "title": "Saved Reports" },
+    { "path": "/settings", "title": "Settings" },
+    { "path": "/account", "title": "Account" },
+    { "path": "/admin", "title": "Administration" }
+  ]
+}
